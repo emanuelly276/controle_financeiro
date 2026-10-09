@@ -2,6 +2,7 @@
 *.class
 
 Conta.class
+Meta.class
 
 # Log file
 *.log
