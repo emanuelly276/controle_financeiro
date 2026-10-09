@@ -3,6 +3,7 @@
 
 Conta.class
 Meta.class
+Receita.class
 
 # Log file
 *.log
